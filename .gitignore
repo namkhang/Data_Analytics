@@ -8,3 +8,11 @@ result-800019
 Cassandra
 sklearn-env
 comapare-bacth.csv
+*.csv
+Metadata(GW)-data(ECOA).csv
+bacth.csv
+compare-realtime.csv
+dataecoa.csv
+dataparsing.csv
+detail_compare_realtime.csv
+export_compare.csv

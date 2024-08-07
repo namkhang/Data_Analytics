@@ -1,2 +1,2 @@
-signal_code,number_column_mismatch
-sd1_v0_eventrecord_carnumber_tmscarnumber,52
+signal_code,number_column_mismatch,total_rows
+sd1_v0_eventrecord_eventrecord_traininformation_startingstationid,34264,34264
